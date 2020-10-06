@@ -1,4 +1,4 @@
-# Capstone-Project-with-Apache-Spark-
+# Capstone-Project-with-Apache-Spark
 Data Engineering Nanodegree Program
 
 # Project Summary
