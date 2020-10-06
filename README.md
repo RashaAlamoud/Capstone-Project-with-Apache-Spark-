@@ -17,5 +17,5 @@ Step 4: Run ETL to Model the Data
 Step 5: Complete Project Write Up
 
 # Project File
-You can see the project <a href="https://github.com/RashaAlamoud/Capstone-Project-with-Apache-Spark-/blob/main/Capstone%20Project%20Template.ipynb">here</a> 
+You can see the project <a href="https://github.com/RashaAlamoud/Capstone-Project-with-Apache-Spark-/blob/main/Capstone%20Project%20Template.ipynb">here</a> .
 
