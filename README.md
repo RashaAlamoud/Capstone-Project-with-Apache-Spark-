@@ -4,7 +4,7 @@ Data Engineering Nanodegree Program
 # Project Summary
 The goal of this project is to aggregate big data using Apache Spark SQL to make a datawarehouse It's used a star schema with a facts table an dimensional tables. 
 
-The project follows the follow steps:
+The project follows the follow steps: 
 
 Step 1: Scope the Project and Gather Data
 
